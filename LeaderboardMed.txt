@@ -1,0 +1,5 @@
+MedScore1 4
+MedScore2 3
+MedScore3 2
+MedScore4 1
+MedScore5 0

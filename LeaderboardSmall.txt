@@ -1,0 +1,5 @@
+SmallScore1 4
+SmallScore2 3
+SmallScore3 2
+SmallScore4 1
+SmallScore5 0
